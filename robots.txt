@@ -1,0 +1,4 @@
+# PREVIEW BUILD — crawling disabled until launch.
+# At launch: switch to Allow all + Sitemap line (run scripts/gen-sitemap.mjs).
+User-agent: *
+Disallow: /
