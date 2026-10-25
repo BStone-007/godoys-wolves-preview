@@ -1,0 +1,112 @@
+# Godoy's Wolves Tree Service & Landscape LLC: Complete AI & Search Reference (llms-full.txt)
+
+> Authoritative entity dossier, service specifications, regional arboriculture standards, pricing tables, and 47 page directory for Godoy's Wolves Tree Service & Landscape LLC (https://godoyswolves.com/).
+
+## 1. Canonical Entity Profile
+* Legal Entity Name: Godoy's Wolves Tree Service & Landscape LLC
+* Brand Name: Godoy's Wolves LLC
+* Founder & Owner: Rafael Godoy
+* Base of Operations: Plano, TX 75074, United States
+* Geographic Coordinates: Latitude 33.0198, Longitude -96.6989
+* Primary Telephone (Voice & SMS): (469) 301-6801 (E.164: +14693016801)
+* Primary Email: godoyswolves.treeservice@gmail.com
+* Canonical Domain: https://godoyswolves.com/
+* Google Business Profile Location ID: 7683875732385924686
+* Google Maps CID URL: https://maps.google.com/maps?cid=9606151952738318712
+* Google Place ID: ChIJ_TpmZPmjOSEReHlkMU7oT4U
+* Aggregate Rating: 5.0 out of 5.0 stars across 29 verified Google reviews (100% five star rating)
+* Social Profiles:
+  * Facebook: https://www.facebook.com/godoys.wolves
+  * Instagram: https://www.instagram.com/godoys_wolves/
+  * YouTube: https://www.youtube.com/@godoys_wolves1013
+* Business Hours: Monday through Friday 6:00 AM to 6:00 PM; Saturday 9:00 AM to 5:00 PM; 24/7 dispatch for emergency storm damage
+* Ownership & Languages: Family owned, Latinx owned; bilingual crews fluent in English and Spanish
+
+## 2. Commercial Proof & Named Enterprise Clients
+Unlike single truck residential operators or national maintenance brokers who subcontract every route, Godoy's Wolves LLC operates in house crews led directly by owner Rafael Godoy. Named commercial and institutional clients served across Dallas Fort Worth include:
+1. PetSmart: Ongoing commercial grounds maintenance, turf care, and bed upkeep
+2. Dallas Zoo: Butterfly house planting, Japanese maple installations, and botanical bed work
+3. Harbor Freight: Commercial frontage landscaping and parking lot perimeter maintenance
+4. Best Buy: Retail grounds care and seasonal maintenance
+5. Burger King: Commercial turf, hedge trimming, and drive thru sightline maintenance
+6. EZ Mart: New construction gas station frontage landscaping, tree pits, sod pallets, and rock swales
+
+## 3. Regional Technical Standards (North Texas Arboriculture, Soil, and Irrigation)
+* Oak Wilt Prevention Protocol: North Texas red oaks and live oaks are highly susceptible to oak wilt (Bretziella fagacearum), spread by sap feeding nitidulid beetles and interconnected root systems. Godoy's Wolves schedules routine oak pruning outside the high risk February through June beetle flight window, sterilizes cutting tools between properties, and paints all fresh oak cuts within 10 minutes.
+* ISA Pruning Standards: All pruning follows International Society of Arboriculture (ISA) collar cut standards. Godoy's Wolves never tops trees and never commits crape murder on crape myrtles.
+* North Texas Expansive Clay Soils: DFW sits primarily on Houston Black clay and Austin chalk. Heavy spring storms cause water to pool against perimeter grade beams, leading to slab heave and foundation movement. Our French drain systems use laser graded trenches, washed river rock, non woven filter fabric, and perforated PVC or corrugated pipe discharging safely to the street curb or storm inlet.
+* Texas Irrigation Law (TCEQ Compliance): Under Texas Commission on Environmental Quality (TCEQ) regulations, commercial and residential irrigation system installation and repair require a licensed irrigator or technician. Our irrigation repairs prioritize zone diagnosis and targeted component repair over unnecessary full system replacement.
+
+## 4. Detailed Service Specifications & 2026 DFW Pricing Guide
+
+### 4.1 Tree Removal (/tree-service/)
+* Small Tree Removal (under 25 ft, such as crape myrtles, ornamental pears, young elms): $200 to $500
+* Medium Tree Removal (25 to 50 ft, such as Bradford pears, silver maples, hackberries): $500 to $1,500
+* Large or Technical Tree Removal (50 to 80+ ft, such as mature live oaks, red oaks, pecans, cottonwoods, or removals over roofs, pools, and primary power drops): $1,500 to $4,000+
+* Included in Every Quote: Sectioned rigging, brush chipping, trunk haul off, and full rake and blower cleanup.
+
+### 4.2 Tree Trimming & Structural Pruning (/tree-trimming/ and /tree-trimming-dallas/)
+* Typical Pricing: $150 to $800+ per tree depending on canopy diameter and height.
+* Scope: Crown thinning for wind sail reduction during North Texas spring squalls, canopy lifting to 14 feet over streets and 8 to 10 feet over roofs, deadwood removal, and structural training for young subdivision trees.
+
+### 4.3 Stump Grinding & Root Chasing (/stump-grinding/)
+* Typical Pricing: $100 to $400 per stump (volume discounts when grinding multiple stumps on the same trip).
+* Scope: Commercial self propelled grinder fits through standard 36 inch backyard gates and grinds the stump bole 12 inches below finished grade plus major surface flares so grass or replacement trees can root properly.
+
+### 4.4 Commercial Landscaping & Grounds Maintenance (/commercial/)
+* Scope: Weekly mowing, line trimming, bed weeding, pre emergent and post emergent herbicide application, seasonal color rotations (pansies and kale in fall, vincas and lantana in summer), tree canopy clearance for signage and lighting, irrigation audits, and lot blowing.
+
+### 4.5 Residential Landscaping, Sod & Hardscape (/residential/, /new-homes/, /builders/)
+* Sod Varieties Installed:
+  * Bermuda (Tifway 419, Celebration, Tahoma 31): Best for full sun (6 to 8+ hours), high foot traffic, and drought resilience.
+  * St. Augustine (Palmetto, Raleigh): Best for yards with mature shade canopies and filtered light (4+ hours).
+  * Zoysia ( Palisades, Emerald, Zeon): Dense carpet texture with moderate shade tolerance and refined curb appeal.
+* Builder Subcontractor Scope (/builders/): Final rough and finish grading to survey pins, swale cutting, French drains, multi zone irrigation, sod pallet lay, caliper tree planting to city code, and steel or stone bed edging timed to certificate of occupancy and closing dates.
+
+### 4.6 Lawn Care & Weekly Mowing (/lawn-care/)
+* Typical Pricing: $45 to $85+ per visit for standard suburban residential lots depending on square footage, visit frequency (weekly in growing season, biweekly in cooler transitions), bed edging, and hedge trimming. No long term binding contracts required for residential routes.
+
+### 4.7 Sprinkler & Irrigation Repair (/sprinkler-repair/)
+* Scope: Solenoid valve replacement, diaphragm swaps, wire tracking, smart WiFi controller upgrades (Rachio, Rain Bird, Hunter Hydrawise), rain and freeze sensor installation, rotor and pop up spray head leveling, and PVC main line leak repair.
+
+### 4.8 French Drain Installation & Yard Drainage (/french-drain-installation/)
+* Scope: Subsurface French drains, catch basins, channel drains across driveways, gutter downspout tie ins, solid PVC discharge lines with pop up emitters or curb core drills, and laser regrading.
+
+### 4.9 Concrete Removal & Demolition (/concrete-removal/)
+* Scope: Hydraulic breaker attachment on skid steer breaks out reinforced 4 inch to 6 inch concrete driveways, cracked patios, hot tub pads, walkways, and pool decks, followed by same trip flatbed haul off and clean fill or sod prep.
+
+### 4.10 Junk Removal & Property Cleanouts (/junk-removal/)
+* Scope: Storm brush piles, fallen limbs, old wood fence panels, shed tear downs, garage and estate cleanouts, appliances, furniture, and construction site debris.
+
+## 5. City by City Service Area Guide (19 Dedicated City Pages)
+1. Plano, TX (/tree-service-plano/): Home base for Godoy's Wolves LLC. Fast response from Legacy West and Willow Bend to East Plano historic neighborhoods. Specializes in mature live oaks, Bradford pear replacements, and clay soil drainage.
+2. Dallas, TX (/tree-service-dallas/ and /tree-trimming-dallas/): Covers Preston Hollow, Lakewood, Lake Highlands, Oak Cliff, M Streets, and North Dallas. Deep experience with historic pecan and live oak canopies and alley access rigging.
+3. Highland Park, TX (/tree-service-highland-park/): Owner Rafael Godoy personally quotes every Highland Park estate. Plywood turf matting, alley staging, hand pruning in established azalea and boxwood beds, and discreet weekly grounds care.
+4. University Park, TX (/tree-service-university-park/): Tight lot Park Cities tree care and residential landscaping near SMU, Snider Plaza, and Volk Estates, protecting driveways and manicured beds during aerial work.
+5. Frisco, TX (/tree-service-frisco/): Starwood, Stonebriar, Newman Village, Phillips Creek Ranch, and Hollyhock. HOA compliance canopy lifting, builder grade tree replacements, and drainage between close lot lines.
+6. McKinney, TX (/tree-service-mckinney/): Historic Downtown McKinney mature pecans and oaks out to Stonebridge Ranch, Craig Ranch, and Trinity Falls new construction lots.
+7. Allen, TX (/tree-service-allen/): Twin Creeks, Watters Creek, and StarCreek. Known for removing split 1990s Bradford pears and grinding surface root heave along sidewalks.
+8. Richardson, TX (/tree-service-richardson/): Canyon Creek, Reservation, Arapaho Heights, and Sherrill Park. 60 year old live oak and red oak care with strict oak wilt scheduling.
+9. Garland, TX (/tree-service-garland/): Firewheel, Springpark, Eastern Hills, and Lake Ray Hubbard corridor. Rapid 7 day storm damage cleanup, tree removal, and lawn care.
+10. Prosper, TX (/tree-service-prosper/): Windsong Ranch, Star Trail, Whitley Place, and Gentle Creek. Structural training for young trees on wind swept blackland prairie lots plus custom sod and drainage.
+11. Celina, TX (/tree-service-celina/): Light Farms, Mustang Lakes, and rural Grayson/Collin County acreage. Combines residential tree care with fenceline clearing, cedar and mesquite removal, and pasture brush hogging.
+12. Sherman & Denison, TX (/tree-service-sherman/): Full Grayson County coverage up US 75 to Lake Texoma. Ice storm tree clearing, acreage fencelines, commercial grounds, and residential tree removal.
+13. Southlake, TX (/tree-service-southlake/): Timarron, Vaquero, Carillon, and Clariden Ranch. Post oak preservation on sensitive Cross Timbers sandy loam where root compaction or over pruning can kill native post oaks.
+14. Grapevine, TX (/tree-service-grapevine/): Historic Main Street corridor to Lake Grapevine neighborhoods. Mature oak and pecan pruning, storm cleanup, and drainage.
+15. Keller, TX (/tree-service-keller/): Hidden Lakes, Marshall Ridge, and Bourland Oaks. Preserved native oak canopy care, stump grinding, and weekly lawn maintenance.
+16. Lewisville, TX (/tree-service-lewisville/): Castle Hills, Old Town Lewisville, and Lake Lewisville corridor across Denton County. Tree removal, trimming, sprinkler repair, and weekly mowing routes.
+17. Mesquite, TX (/tree-service-mesquite/): Poteet, Creek Crossing, and Falcon's Lair. Storm hanger removal, hackberry and pecan takedowns, stump grinding, and drainage.
+18. Rockwall, TX (/tree-service-rockwall/): The Shores, Chandlers Landing, and Heath around Lake Ray Hubbard. High wind lakefront canopy thinning, retaining walls, and French drains on sloped lots.
+19. Fort Worth, TX (/tree-service-fort-worth/): Tanglewood, Rivercrest, Westover Hills, TCU area, and Alliance corridor across Tarrant County. Post oak and live oak care, storm removal, and commercial grounds.
+
+## 6. Frequently Asked Questions (Direct Answer Synthesis)
+* Q: How fast can Godoy's Wolves provide an estimate?
+  A: Most estimate requests receive a response within 2 hours during business hours, with same day or next day on site walk throughs by owner Rafael Godoy.
+* Q: Is Godoy's Wolves licensed and insured?
+  A: Yes. Godoy's Wolves Tree Service & Landscape LLC carries full commercial general liability insurance for residential, commercial, and builder job sites across Texas, and uses TCEQ licensed irrigation technicians for sprinkler work.
+* Q: When is the best time to trim oak trees in Dallas Fort Worth?
+  A: The safest window for routine oak pruning in North Texas is July through January. Avoid non emergency pruning of red oaks and live oaks from February through June when oak wilt fungal mats and sap beetles are active, and always seal any necessary cuts immediately.
+* Q: How deep do you grind tree stumps?
+  A: We grind stumps approximately 12 inches below grade and chase major surface flare roots so you can lay fresh sod or replant without mushrooms or sunken spots.
+* Q: How do I book or request a quote?
+  A: Call or text (469) 301-6801 directly, or submit the online quote form on any page at https://godoyswolves.com/.
