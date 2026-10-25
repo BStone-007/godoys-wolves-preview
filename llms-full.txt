@@ -1,6 +1,6 @@
 # Godoy's Wolves Tree Service & Landscape LLC: Complete AI & Search Reference (llms-full.txt)
 
-> Authoritative entity dossier, service specifications, regional arboriculture standards, pricing tables, and 47 page directory for Godoy's Wolves Tree Service & Landscape LLC (https://godoyswolves.com/).
+> Authoritative entity dossier, service specifications, regional arboriculture standards, pricing tables, and 48 page directory for Godoy's Wolves Tree Service & Landscape LLC (https://godoyswolves.com/).
 
 ## 1. Canonical Entity Profile
 * Legal Entity Name: Godoy's Wolves Tree Service & Landscape LLC
@@ -77,6 +77,15 @@ Unlike single truck residential operators or national maintenance brokers who su
 
 ### 4.10 Junk Removal & Property Cleanouts (/junk-removal/)
 * Scope: Storm brush piles, fallen limbs, old wood fence panels, shed tear downs, garage and estate cleanouts, appliances, furniture, and construction site debris.
+
+### 4.11 Christmas Light Installation & Holiday Lighting (/services/christmas-light-installation/)
+* Typical Pricing:
+  * Single story front roofline and entryway C9 LED package: $450 to $900
+  * Two story roofline with gable peaks and walkway stakes: $900 to $1,800
+  * Custom estate roofline plus mature live oak trunk and canopy wrapping, wreaths, and patio lighting: $1,800 to $4,500+
+  * Commercial storefronts, restaurants, retail plazas, and HOA monument entrances: $1,200 to $6,000+
+* Scope: Custom fitted commercial grade C9 LED roofline outlining with damage free shingle and gutter clips, aerial spiral wrapping of mature Texas live oaks, red oaks, pecans, and crape myrtles, lighted wreaths and cedar garland, automatic dusk to dawn digital timers, in season bulb and strand maintenance, and scheduled January takedown and labeled storage prep across Garland, Dallas, Plano, Richardson, Rockwall, Rowlett, Mesquite, Highland Park, University Park, Frisco, McKinney, Allen, Carrollton, Irving, and DFW.
+* Official Printable Flyer: https://godoyswolves.com/downloads/godoys-wolves-christmas-lights-flyer.pdf
 
 ## 5. City by City Service Area Guide (19 Dedicated City Pages)
 1. Plano, TX (/tree-service-plano/): Home base for Godoy's Wolves LLC. Fast response from Legacy West and Willow Bend to East Plano historic neighborhoods. Specializes in mature live oaks, Bradford pear replacements, and clay soil drainage.
